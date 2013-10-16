@@ -1,0 +1,9 @@
+{
+  "name": "alerts",
+  "repo": "bscomp/alerts",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
